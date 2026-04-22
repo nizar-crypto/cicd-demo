@@ -165,6 +165,6 @@ You can copy this entire response into a file named STUDY\_NOTES.md in your proj
 Would you like to move to Step 5 now, where we actually write the GitHub Action script to automate your npm test?
 
 
-
+gh repo view --web   (view and open the GitHub)
 
 
